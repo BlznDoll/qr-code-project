@@ -9,7 +9,8 @@ body {
     width: 300px;
     padding: 20px;
     border-radius: 10px;
-    margin: 100px auto;
+    margin: 200px auto;
+    text-align: center;
 }
 
 img {
