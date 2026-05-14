@@ -24,7 +24,7 @@ This is an overview of the QR code component solution project for Frontend Mento
 ### Links
 
 - Solution URL: [https://github.com/BlznDoll/qr-code-project]
-- Live Site URL: [http://localhost:5500/index.html]
+- Live Site URL: [https://blzndoll.github.io/qr-code-project/]
 
 ## My process
 
