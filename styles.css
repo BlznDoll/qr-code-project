@@ -1,0 +1,47 @@
+body {
+    font-size: 15px;
+    font-family: Outfit, sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 100px auto;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    font-weight: 400;
+}
+
+footer {
+    font-size: 0.6875rem;
+    text-align: center;
+}
+
+/* Media Queries */
+
+/* For mobile phones: */
+@media (min-width: 375px) {
+    .container {
+        width: 90%;
+    }
+}
+
+/* For desktops: */
+@media (max-width: 1440px) {
+    .container {
+        width: 300px;
+    }
+}
