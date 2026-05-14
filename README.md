@@ -23,8 +23,8 @@ This is an overview of the QR code component solution project for Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/BlznDoll/qr-code-project]
+- Live Site URL: [http://localhost:5500/index.html]
 
 ## My process
 
