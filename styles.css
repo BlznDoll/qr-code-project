@@ -33,14 +33,14 @@ footer {
 /* Media Queries */
 
 /* For mobile phones: */
-@media (min-width: 375px) {
+@media (max-width: 375px) {
     .container {
         width: 90%;
     }
 }
 
 /* For desktops: */
-@media (max-width: 1440px) {
+@media (min-width: 1440px) {
     .container {
         width: 300px;
     }
